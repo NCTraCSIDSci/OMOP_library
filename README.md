@@ -1,5 +1,7 @@
 # OMOP_library  
 
+[![DOI](https://zenodo.org/badge/982776823.svg)](https://doi.org/10.5281/zenodo.17259815)
+
 ### This repository contains code developed by the TraCS Data Science Lab, which is part of the School of Medicine at the University of North Carolina at Chapel Hill. This code may have been modified from its original form to protect proprietary information and improve interpretability out of context. For example, files paths and schema names have been removed.
 ---
 This is a repo to centralize OMOP concept sets and other definitions for re-use across projects and OMOP datasets by TraCS Data Science Lab, as well as other groups and researchers both at unc and beyond.  
