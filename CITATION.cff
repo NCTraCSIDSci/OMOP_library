@@ -1,31 +1,39 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
 cff-version: 1.2.0
 title: TDSL OMOP Library
 message: >-
-  If you use this software, please cite it using the
-  metadata from this file.
+  If you use this software, please cite it using the metadata from this file.
 type: software
 authors:
-  - given-names: Peter
-    family-names: Leese
-    email: peleese@email.unc.edu
-    affiliation: UNC Chapel Hill SOM
-    orcid: 'https://orcid.org/0000-0001-9730-1675'
-  - given-names: Josh
-    family-names: Fuchs
-    orcid: 'https://orcid.org/0000-0003-2775-3304'
-    email: josh_fuchs@med.unc.edu
-    affiliation: UNC Chapel Hill SOM
+  - name: "TraCS  Data Science Lab (TDSL), UNC Chapel Hill School of Medicine"
+    affiliation: "UNC Chapel Hill School of Medicine"
 identifiers:
   - type: doi
     value: 10.5281/zenodo.17259816
-    description: Zenodo DOi
+    description: Zenodo DOI
 repository-code: 'https://github.com/NCTraCSIDSci/OMOP_library'
+url: 'https://github.com/NCTraCSIDSci/OMOP_library'
+preferred-citation: >-
+  TraCS  Data Science Lab (TDSL), Leese P, Fuchs J (2025). TDSL OMOP Library. Version 1.0. DOI:10.5281/zenodo.17259816.
 abstract: >-
-  This is a collection of scripts and concept sets TDSL
-  commonly uses when working in the OMOP CDM.  
+  This repository centralizes OMOP concept sets and other definitions for reuse
+  across projects and OMOP datasets. It contains concept sets, example scripts,
+  and utilities commonly used by the TDSL group when working with the OMOP CDM.
+keywords:
+  - OMOP
+  - concept sets
+  - TDSL
+  - CDM
 license: MIT
 version: '1.0'
 date-released: '2025-10-03'
+contributors:
+  - given-names: Peter
+    family-names: Leese
+    email: peleese@email.unc.edu
+    affiliation: UNC Chapel Hill School of Medicine
+    orcid: 'https://orcid.org/0000-0001-9730-1675'
+  - given-names: Josh
+    family-names: Fuchs
+    email: josh_fuchs@med.unc.edu
+    affiliation: UNC Chapel Hill School of Medicine
+    orcid: 'https://orcid.org/0000-0003-2775-3304'
